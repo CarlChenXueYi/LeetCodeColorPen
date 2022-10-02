@@ -1,0 +1,2 @@
+# LeetCodeColorPen
+leecode exercise notes

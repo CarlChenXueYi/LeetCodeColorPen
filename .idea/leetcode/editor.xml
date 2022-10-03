@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/cn/AddTwoNumbers_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/cn/doc/content/AddTwoNumbers_test.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/cn/AddTwoNumbers_test.go" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/cn/TwoSum_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/cn/doc/content/TwoSum_test.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/cn/TwoSum_test.go" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/en/BinarySearch_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/en/doc/content/BinarySearch_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com704" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/en/BinarySearch_test.go" />
+              <option name="titleSlug" value="binary-search" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/en/SearchInsertPosition_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/en/doc/content/SearchInsertPosition_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com35" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/en/SearchInsertPosition_test.go" />
+              <option name="titleSlug" value="search-insert-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/en/TwoSum_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/en/doc/content/TwoSum_test.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/en/TwoSum_test.go" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/nx/nhgw7tld4nq8j2w23kf5_5sm0000gn/T/leetcode/editor/cn/TwoSum_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/cn/doc/content/TwoSum_test.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Xavier_hou_go/leetcode/editor/cn/TwoSum_test.go" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

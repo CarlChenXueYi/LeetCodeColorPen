@@ -4,162 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c6692ea-9c10-4a22-a536-9a0ded60a604" name="Default Changelist" comment="Import previous code progress">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/BagZeroOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/ClimbFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/ClimbFloorWithCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/DP process.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/DifferentPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/IntegerSpilt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/NumTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/SplitEqualSumSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/MonotoneStack/dailyTemp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/MonotoneStack/maxSqure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/MonotoneStack/nextAndLoopBiggerNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/MonotoneStack/pickUpRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/array/binarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/array/minimumSubArrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/array/orderedArraySquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/array/removeElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/array/rotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/list/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/list/ListUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/list/pairwiseExchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/list/removeListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/list/reverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EnUm/ResultCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EnUm/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EnUm/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EnUm/SingletonEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/BinaryTreeTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/CompareTwoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/CompareVersionNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/CountAndSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/DoubleLinkedListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/PartionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/ReorderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FiftyOneToSeventy/X_RepeatedDNASequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/ByteToChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/CharToByte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/IOModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/EvaluateReversePolishNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/InsertInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/MaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/MediaOfTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/MergeIntervals/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/MergeIntervals/IntervalComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/MergeIntervals/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/RegularExpressoionMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/RemoveDuplicatesTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/RotateArrayInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/RotateImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/Search2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/SetMatrixZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/SolutionWordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/ThreeSumClosest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/U_DistinctSubsequencesTotal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/WordBreakII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/WordLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneToThirtythree/stringToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Proxy/MyInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Proxy/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Proxy/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Proxy/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reflection/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reflection/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reflection/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reflection/fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reflection/fruit.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reflection/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reflection/init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/BinaryTreeMaximumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/CloneGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/ConstructBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/ConvertSortedArrayToBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/FlattenBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/MergeSortLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/QuicksortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/SortLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/ValidateBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeventyOneToNinty/minDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/BestTimeToSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/FindMinInRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/FindMinRotatedSortedArrayTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/FindPeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/LongestSubstringWithoutRepeating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/PalidromePartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/ReverseWordsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyFourToFifty/X_LongestSubstringWithoutRepeatingTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Threadthread/daemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/AHG/AHGtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/AHG/HardNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/AHG/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/KL/algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/KL/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/KL/tools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/MMM/DE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/MMM/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/MulcorePartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/sbt/ConnectionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/sbt/De.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/sbt/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/writer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/softAndHardCooperation/writingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stream_Java8/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stream_Java8/stu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/enumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
+    <list default="true" id="9c6692ea-9c10-4a22-a536-9a0ded60a604" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/LastStone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2FbP1Mmf8mTKBeqxykl3VmVWKo3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -168,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -175,20 +43,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.NumTrees">
-    <configuration name="BagZeroOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.BagZeroOne" />
-      <module name="LeetCodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodeImage.DynamicPrograming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LastStone">
     <configuration name="ClimbFloor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.ClimbFloor" />
       <module name="LeetCodeJava" />
@@ -228,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LastStone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.LastStone" />
+      <module name="LeetCodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeImage.DynamicPrograming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.NumTrees" />
       <module name="LeetCodeJava" />
@@ -241,24 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastStone" />
         <item itemvalue="Application.NumTrees" />
         <item itemvalue="Application.IntegerSpilt" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.ClimbFloor" />
-        <item itemvalue="Application.BagZeroOne" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +141,8 @@
       <option name="presentableId" value="Default" />
       <updated>1664757594449</updated>
       <workItem from="1664757595652" duration="341000" />
-      <workItem from="1664757940182" duration="323000" />
+      <workItem from="1664757940182" duration="806000" />
+      <workItem from="1664761214390" duration="1242000" />
     </task>
     <task id="LOCAL-00001" summary="create new project for leetcode">
       <created>1664757677615</created>
@@ -287,15 +158,34 @@
       <option name="project" value="LOCAL" />
       <updated>1664757756259</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Import previous code progress">
+      <created>1664758355953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664758355953</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create new project for leetcode" />
     <MESSAGE value="Import previous code progress" />
     <option name="LAST_COMMIT_MESSAGE" value="Import previous code progress" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

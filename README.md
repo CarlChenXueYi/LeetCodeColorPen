@@ -1,4 +1,4 @@
 # LeetCodeColorPen
 leecode exercise notes
 
-LeetCode Index: https://docs.qq.com/sheet/DTWFKd2l4V1hkU2xN?tab=BB08J2
+LeetCode Index: https://bpmkr631t5.feishu.cn/sheets/shtcn0v2bE1iCngDOGlcxLsgoTd?from=from_copylink

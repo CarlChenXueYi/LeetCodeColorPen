@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c6692ea-9c10-4a22-a536-9a0ded60a604" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/ClimbFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/ClimbFloor.java" afterDir="false" />
+    <list default="true" id="9c6692ea-9c10-4a22-a536-9a0ded60a604" name="Default Changelist" comment="update 322. Coin Change java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeImage/DynamicPrograming/PerfectSquares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +43,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CoinChange2">
-    <configuration name="CoinChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.CoinChange2" />
+  <component name="RunManager" selected="Application.PerfectSquares">
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.CoinChange" />
       <module name="LeetCodeJava" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerSpilt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.IntegerSpilt" />
+    <configuration name="CoinChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.CoinChange2" />
       <module name="LeetCodeJava" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.NumTrees" />
+    <configuration name="PerfectSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeImage.DynamicPrograming.PerfectSquares" />
       <module name="LeetCodeJava" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerfectSquares" />
+        <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.CoinChange2" />
         <item itemvalue="Application.TargetSum" />
         <item itemvalue="Application.LastStone" />
-        <item itemvalue="Application.NumTrees" />
-        <item itemvalue="Application.IntegerSpilt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,7 @@
       <updated>1664757594449</updated>
       <workItem from="1664757595652" duration="341000" />
       <workItem from="1664757940182" duration="806000" />
-      <workItem from="1664761214390" duration="13311000" />
+      <workItem from="1664761214390" duration="19143000" />
     </task>
     <task id="LOCAL-00001" summary="create new project for leetcode">
       <created>1664757677615</created>
@@ -199,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665072672701</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update 70. Climbing Stairs java">
+      <created>1665108696634</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665108696634</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update 322. Coin Change java">
+      <created>1665126730696</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665126730696</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +239,9 @@
     <MESSAGE value="add 474(Ones and Zeros) java" />
     <MESSAGE value="add 518(Coin Change 2) java" />
     <MESSAGE value="add 377(Combination Sum IV) java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 377(Combination Sum IV) java" />
+    <MESSAGE value="update 70. Climbing Stairs java" />
+    <MESSAGE value="update 322. Coin Change java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 322. Coin Change java" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

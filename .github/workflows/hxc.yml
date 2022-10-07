@@ -1,0 +1,26 @@
+name: 3点几啦！喝杯奶茶先啦
+
+# 触发条件
+on:
+  # 触发条件1：main分支有提交时候触发
+  push:
+    branches:
+      - main
+#  # 触发条件2：定时任务，每天15点触发
+#  schedule:
+#    - cron: "0 15 * * *"
+jobs:
+  drink_tea:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 这就给大家发消息
+        run: |
+          curl 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=ba9615a2-2b4a-42a0-bf7f-ff6d4644ec6e' \
+          -H 'Content-Type: application/json' \
+          -d '
+          {
+                "msgtype": "text",
+                "text": {
+                    "content": "小侯又push代码啦，看这里https://github.com/xavier-hou/LeetCodeColorPen"
+                }
+          }'
